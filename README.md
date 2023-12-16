@@ -1,0 +1,2 @@
+# editor.vista.simboz
+ 
